@@ -235,17 +235,17 @@ game.starting.team-message: '&aJe bent in team %1$s met &2%2$s.'
 game.starting.team-message-comma: '&a, &2'
 game.starting.team-message-final-comma: '&a and &2'
 
-# Untranslated start
-game.starting.team-message-alone: '&aYou are in team %s, alone.'
+game.starting.team-message-alone: '&aJe bent in team %s, alleen.'
 
 gui.kit-picker.title: '&8[&cSkyWars Kits&8]'
 gui.kit-picker.totem-title: '&8%s'
 gui.kit-picker.unavailable-totem-title: '&8&m%s'
-gui.kit-picker.lore.cost: '&3Costs &2%s&3 per round.'
-gui.kit-picker.lore.unaffordable-cost: '&8Costs &c%s&8 per round.'
-gui.kit-picker.lore.unaffordable-cost-2: '&c%1$s&8 more needed.'
-gui.kit-picker.lore.no-permission: '&4No access.'
-gui.kit-picker.messages.kit-disappeared: '&4The kit you selected no longer exists.'
+gui.kit-picker.lore.cost: '&3Kost &2%s&3 per ronde.'
+gui.kit-picker.lore.unaffordable-cost: '&8Kost &c%s&8 per ronde.'
+gui.kit-picker.lore.unaffordable-cost-2: '&c%1$s&8 meer nodig.'
+gui.kit-picker.lore.no-permission: '&4Geen toegang.'
+gui.kit-picker.messages.kit-disappeared: '&4De kit die je selecteerde bestaat niet meer.'
 
-configuration.kits.default-kit-description: '&4A kit: &8%s&4.'
+configuration.kits.default-kit-description: '&4Een kit: &8%s&4.'
+# Untranslated start
 # Untranslated end
